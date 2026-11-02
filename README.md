@@ -2,7 +2,7 @@
 
 Hands-on cybersecurity labs and projects covering network and OS hardening, vulnerability assessment, SQL for security analysis, the NIST framework and incident response.
 
-**Author:** Sandra Teletor, junior IT technician (ASIR + Cybersecurity Bootcamp), based in Asturias, Spain.
+**Author:** Sandra Teletor, junior IT technician (ASIR + Cybersecurity Bootcamp), based in Madrid, Spain.
 **Contact:** [LinkedIn](https://linkedin.com/in/sandra-teletor) · [GitHub](https://github.com/sandraMartina)
 
 > Labs completed as part of [EDIT: course name, e.g. Google Cybersecurity Certificate / Fundación Esplai Bootcamp].
